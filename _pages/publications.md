@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Einführung"
-permalink: /publications/
+permalink: /einfuehrung/
 author_profile: true
 ---
 
