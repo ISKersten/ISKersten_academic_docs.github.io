@@ -3,20 +3,29 @@ main:
   - title: "Einführung"
     url: /einfuehrung/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Kapitel 1"
+    url: /kapitel_1/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Kapitel 2"
+    url: /apitel_2/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Kapitel 3"
+    url: /kapitel_3/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Kapitel 4"
+    url: /kapitel_4/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Kapitel 5"
+    url: /kapitel_5/
     
-  - title: "Informationen"
-    url: /markdown/
+  - title: "Kapitel 6"
+    url: /kapitel_6/
+    
+  - title: "Kapitel 7"
+    url: /kapitel_7/
+    
+  - title: "Referenzen"
+    url: /referenzen/
+    
+  - title: "Anhänge"
+    url: /anhaenge/
