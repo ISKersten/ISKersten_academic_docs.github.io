@@ -1,31 +1,21 @@
 # main links links
 main:
-  - title: "Einführung"
+  - title: "Konventionen zu Metadaten"
     url: /einfuehrung/
 
-  - title: "Kapitel 1"
+  - title: "Dokument 1"
     url: /kapitel_1/    
 
-  - title: "Kapitel 2"
-    url: /apitel_2/    
+  - title: "Dokument 2"
+    url: /dokument_2/    
     
-  - title: "Kapitel 3"
-    url: /kapitel_3/
+  - title: "Dokument 3"
+    url: /dokument_3/
         
-  - title: "Kapitel 4"
-    url: /kapitel_4/
+  - title: "Dokument 4"
+    url: /dokument_4/
     
-  - title: "Kapitel 5"
-    url: /kapitel_5/
+  - title: "Dokument 5"
+    url: /dokument_5/
     
-  - title: "Kapitel 6"
-    url: /kapitel_6/
-    
-  - title: "Kapitel 7"
-    url: /kapitel_7/
-    
-  - title: "Referenzen"
-    url: /referenzen/
-    
-  - title: "Anhänge"
-    url: /anhaenge/
+  
